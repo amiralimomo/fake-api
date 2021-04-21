@@ -2,17 +2,17 @@
     "users": [
       {
         "id": 1,
-        "name": "amirali",
+        "email": "amirali",
         "password":"2110"
       },
       {
         "id": 2,
-        "name": "mohammad",
+        "email": "mohammad",
         "password":"123"
       },
       {
         "id": 3,
-        "name": "sara",
+        "email": "sara",
         "password":"0000"
       }
     ]
